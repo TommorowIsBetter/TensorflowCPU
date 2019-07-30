@@ -1,6 +1,7 @@
 <component name="ProjectDictionaryState">
   <dictionary name="wangyan">
     <words>
+      <w>batchsize</w>
       <w>crossentropy</w>
       <w>keras</w>
       <w>mnist</w>
